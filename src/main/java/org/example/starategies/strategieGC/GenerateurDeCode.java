@@ -1,7 +1,7 @@
-package org.example.starategy.context;
+package org.example.starategies.strategieGC.context;
 
 import org.example.DiagramUML.Diagramme;
-import org.example.starategy.StrategyGenCode;
+import org.example.starategies.strategieGC.StrategyGenCode;
 //client
 public class GenerateurDeCode {
     private StrategyGenCode strategy;
